@@ -1,0 +1,16 @@
+1. GscDecolor2.m
+Cited from: 
+Q. Liu, P.X. Liu, W. Xie, Y. Wang, D. Liang.
+GcsDecolor: Gradient correlation similarity for efficient contrast preserving decolorization.
+IEEE Trans. Image Process., vol. 24, no. 9, pp. 2889-2904, 2015. 
+
+2. SPDecolor.m
+Cited from:
+Liu Q, Liu P X, Wang Y, et al. 
+Semiparametric Decolorization With Laplacian-Based Perceptual Quality Metric[J]. 
+IEEE Transactions on Circuits and Systems for Video Technology, 2017, 27(9): 1856-1868.
+
+3. LIME.p
+Guo X, Li Y, Ling H. LIME 
+Low-light image enhancement via illumination map estimation[J]. 
+IEEE Transactions on Image Processing, 2017, 26(2): 982-993.

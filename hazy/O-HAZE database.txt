@@ -1,0 +1,12 @@
+O-HAZE: a dehazing benchmark with real hazy and haze-free outdoor images
+
+Ancuti, Codruta O and Ancuti, Cosmin and Timofte, Radu and De Vleeschouwer, Christophe
+
+@article{ancuti2018haze,
+  title={O-HAZE: a dehazing benchmark with real hazy and haze-free outdoor images},
+  author={Ancuti, Codruta O and Ancuti, Cosmin and Timofte, Radu and De Vleeschouwer, Christophe},
+  journal={ArXiv e-prints},
+  volume={5},
+  number={6},
+  year={2018}
+}

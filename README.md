@@ -6,7 +6,11 @@ Multi-scale Optimal Fusion Model for Single Image Dehazing
 
 Dong Zhao, Long Xu, Yihua Yan, Jie Chen, Lingyu Duan
 
-This work has been accepted by journal Signal Processing: Image Communication, 2019. If you have any interesting problems on our work, we sincerely welcome your valuable advises, and you can email us by:
+This work has been accepted by journal Signal Processing: Image Communication, 2019. This paper can be download from:
+
+https://www.sciencedirect.com/science/article/abs/pii/S0923596518308804 .
+
+If you have any interesting problems on our work, we sincerely welcome your valuable advises, and you can email us by:
 
 lxu@nao.cas.cn | dzhao@nao.cas.cn | zhaodong_biti@163.com
 

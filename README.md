@@ -10,7 +10,7 @@ This work has been accepted by journal Signal Processing: Image Communication, 2
 
 https://www.sciencedirect.com/science/article/abs/pii/S0923596518308804 .
 
-If you have any interesting problems on our work, we sincerely welcome your valuable advises, and you can email us by:
+If you have any interesting problems on our work, we sincerely welcome your valuable advise, and you can email us by:
 
 lxu@nao.cas.cn | dzhao@nao.cas.cn | zhaodong_biti@163.com
 

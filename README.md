@@ -21,7 +21,7 @@ Image acquisition is usually vulnerable to bad weathers, like haze, fog and smok
 # Model of the MOF Dehazing
 
 
- ![model of TME](https://github.com/phoenixtreesky7/mof_dehazing/raw/master/figures/TME_model.png)
+ ![model of TME](https://github.com/phoenixtreesky7/mof_dehazing/raw/master/figures/TME_model1.png)
 
  ![model of MOF](https://github.com/phoenixtreesky7/mof_dehazing/raw/master/figures/TME_costfunctionmodel.png)
 

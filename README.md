@@ -26,9 +26,7 @@ Image acquisition is usually vulnerable to bad weathers, like haze, fog and smok
  ![model of MOF](https://github.com/phoenixtreesky7/mof_dehazing/raw/master/figures/TME_costfunctionmodel.png)
 
 
- ![hazy image](https://github.com/phoenixtreesky7/mof_dehazing/raw/master/figures/3.png)
-
- ![mof dehazed image](https://github.com/phoenixtreesky7/mof_dehazing/raw/master/figures/MSpipa_3J.png)
+ ![hazy image](https://github.com/phoenixtreesky7/mof_dehazing/raw/master/figures/3.png)  ![mof dehazed image](https://github.com/phoenixtreesky7/mof_dehazing/raw/master/figures/MSpipa_3J.png)
 
  ![zoom in](https://github.com/phoenixtreesky7/mof_dehazing/raw/master/figures/MSpipa_3Jzoomin.png)
 

@@ -2,7 +2,7 @@
 
 This is a Matlab re-implementation of the paper.
 
-Multi-scale Optimal Fusion Model for Single Image Dehazing
+**Multi-scale Optimal Fusion Model for Single Image Dehazing**
 
 Dong Zhao, Long Xu, Yihua Yan, Jie Chen, Lingyu Duan
 

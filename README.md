@@ -39,11 +39,19 @@ Then, run the code mof_demo.m
 # BibTeX
 
 @article{zhao2019multi,
+
   title={Multi-scale Optimal Fusion model for single image dehazing},
+  
   author={Zhao, Dong and Xu, Long and Yan, Yihua and Chen, Jie and Duan, Ling-Yu},
+  
   journal={Signal Processing: Image Communication},
+  
   volume={74},
+  
   pages={253--265},
+  
   year={2019},
+  
   publisher={Elsevier}
+  
 }

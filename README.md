@@ -1,4 +1,4 @@
-<font color=	#DC143C size=9>**This paper was awarded 2024 EURASIP Signal Processing: Image Communication Best Paper !!!**</font>
+# <font color=	#DC143C size=9>**This paper was awarded 2024 EURASIP Signal Processing: Image Communication Best Paper !!!**</font>
 
 
 # Introduction of mof_dehaizng

@@ -10,6 +10,10 @@ This work has been accepted by journal Signal Processing: Image Communication, 2
 
 https://www.sciencedirect.com/science/article/abs/pii/S0923596518308804 .
 
+
+**This paper was awarded 2024 EURASIP Signal Processing: Image Communication Best Paper !!!**
+
+
 If you have any interesting problems on our work, we sincerely welcome your valuable advise, and you can email us by:
 
 lxu@nao.cas.cn | dzhao@nao.cas.cn | zhaodong_biti@163.com

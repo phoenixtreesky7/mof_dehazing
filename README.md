@@ -1,3 +1,6 @@
+<font color=	#DC143C size=9>**This paper was awarded 2024 EURASIP Signal Processing: Image Communication Best Paper !!!**</font>
+
+
 # Introduction of mof_dehaizng
 
 This is a Matlab re-implementation of the paper.
@@ -11,7 +14,7 @@ This work has been accepted by journal Signal Processing: Image Communication, 2
 https://www.sciencedirect.com/science/article/abs/pii/S0923596518308804 .
 
 
-<font color=#0099ff size=7>**This paper was awarded 2024 EURASIP Signal Processing: Image Communication Best Paper !!!**</font>
+
 
 
 If you have any interesting problems on our work, we sincerely welcome your valuable advise, and you can email us by:
